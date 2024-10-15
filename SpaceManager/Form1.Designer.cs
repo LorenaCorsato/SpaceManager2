@@ -174,11 +174,11 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(857, 174);
+            this.label4.Location = new System.Drawing.Point(894, 226);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(44, 16);
+            this.label4.Size = new System.Drawing.Size(190, 16);
             this.label4.TabIndex = 5;
-            this.label4.Text = "label4";
+            this.label4.Text = "oiiiiiiiiii lorenaaaaaaaaaaaaaa";
             // 
             // Form1
             // 
